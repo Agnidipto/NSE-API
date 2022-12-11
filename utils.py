@@ -35,4 +35,18 @@ def get_data(name) :
 
     return (result)
 
-print(get_data("Infosys"))
+def get_price(name) :
+    data = get_data(name)
+    return data["price"]
+
+def get_change(name) :
+    data = get_data(name)
+    return data["change"]
+
+def get_points(name) :
+    data = get_data(name)
+    return data["points"]
+
+def get_up_down(name) :
+    data = get_data(name)
+    return data["up_down"]
