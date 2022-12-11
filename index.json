@@ -2104,5 +2104,11 @@
         "type" : "ETF",
         "id" : "motilaloswalnasdaq100etf",
         "symbol" : "MON100"
+    },
+    "MphasiS Ltd" : {
+        "link" : "https://www.moneycontrol.com/india/stockpricequote/computers-software/mphasis/MB02",
+        "type" : "Computers - Software",
+        "id" : "mphasis",
+        "symbol" : "MPHASIS"
     }
 }
