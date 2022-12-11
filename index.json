@@ -2086,5 +2086,23 @@
         "type": "Finance - Investments",
         "id": "maxfinancialservices",
         "symbol": "MFSL"
+    },
+    "Gold BEes" : {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/gold-etf/nipponindiaetfgoldbees/GBE",
+        "type": "Gold ETF",
+        "id" : "nipponindiaetfgoldbees",
+        "symbol" : "GOLDBEES"
+    },
+    "Nifty BEes" : {
+        "link" : "https://www.moneycontrol.com/india/stockpricequote/etf/nipponindiaetfnifty50bees/NBE01",
+        "type" : "ETF",
+        "id" : "nipponindiaetfnifty50bees",
+        "symbol" : "NIFTYBEES"
+    },
+    "Mon100" : {
+        "link" : "https://www.moneycontrol.com/india/stockpricequote/etf/motilaloswalnasdaq100etf/MOM02",
+        "type" : "ETF",
+        "id" : "motilaloswalnasdaq100etf",
+        "symbol" : "MON100"
     }
 }
