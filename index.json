@@ -1,0 +1,2090 @@
+{
+    "Wipro": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W",
+        "type": "Computers - Software",
+        "id": "wipro",
+        "symbol": "WIPRO"
+    },
+    "Persistent": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/persistentsystems/PS15",
+        "type": "Computers - Software",
+        "id": "persistentsystems",
+        "symbol": "PERSISTENT"
+    },
+    "KPIT Tech": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/it-services-consulting/kpittechnologies/KPITT54265",
+        "type": "IT Services & Consulting",
+        "id": "kpittechnologies",
+        "symbol": "KPITTECH"
+    },
+    "Network 18": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/network18mediainvestments/NMI",
+        "type": "Media & Entertainment",
+        "id": "network18mediainvestments",
+        "symbol": "NETWORK18"
+    },
+    "Infibeam Avenue": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/infibeamavenues/IIL03",
+        "type": "Miscellaneous",
+        "id": "infibeamavenues",
+        "symbol": "INFIBEAM"
+    },
+    "Balaji Amines": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/balajiamines/BA05",
+        "type": "Chemicals",
+        "id": "balajiamines",
+        "symbol": "BALAMINES"
+    },
+    "Indiamart Inter": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/indiamartintermesh/II12",
+        "type": "Miscellaneous",
+        "id": "indiamartintermesh",
+        "symbol": "INDIAMART"
+    },
+    "Karur Vysya": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/karurvysyabank/KVB",
+        "type": "Banks - Private Sector",
+        "id": "karurvysyabank",
+        "symbol": "KARURVYSYA"
+    },
+    "GE Shipping": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/shipping/greateasternshippingcompany/GES",
+        "type": "Shipping",
+        "id": "greateasternshippingcompany",
+        "symbol": "GESHIP"
+    },
+    "IWML": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-others/iiflwealthmanagementlimited/IIFLW54277",
+        "type": "Finance - Others",
+        "id": "iiflwealthmanagementlimited",
+        "symbol": "IIFLWAM"
+    },
+    "Poly Medicure": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/polymedicure/PM06",
+        "type": "Hospitals & Medical Services",
+        "id": "polymedicure",
+        "symbol": "POLYMED"
+    },
+    "TCNS Clothing C": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-general/tcnsclothingco/TCC",
+        "type": "Textiles - General",
+        "id": "tcnsclothingco",
+        "symbol": "TCNSBRANDS"
+    },
+    "Info Edge": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/infoedgeindia/IEI01",
+        "type": "Miscellaneous",
+        "id": "infoedgeindia",
+        "symbol": "NAUKRI"
+    },
+    "Fert and Chem": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fertilisers/fertiliserschemicalstravancore/FCT",
+        "type": "Fertilisers",
+        "id": "fertiliserschemicalstravancore",
+        "symbol": "FACT"
+    },
+    "HEG": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electrodes-graphite/heg/HEG",
+        "type": "Electrodes & Graphite",
+        "id": "heg",
+        "symbol": "HEG"
+    },
+    "Anupam Rasayan": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/anupamrasayanindia/ARI02",
+        "type": "Speciality Chemicals",
+        "id": "anupamrasayanindia",
+        "symbol": "ANURAS"
+    },
+    "Jamna Auto": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/jamnaautoindustries/JAI",
+        "type": "Auto Ancillaries",
+        "id": "jamnaautoindustries",
+        "symbol": "JAMNAAUTO"
+    },
+    "Tech Mahindra": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/techmahindra/TM4",
+        "type": "Computers - Software",
+        "id": "techmahindra",
+        "symbol": "TECHM"
+    },
+    "Infosys": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT",
+        "type": "Computers - Software",
+        "id": "infosys",
+        "symbol": "INFY"
+    },
+    "Wockhardt": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/wockhardt/W05",
+        "type": "Pharmaceuticals",
+        "id": "wockhardt",
+        "symbol": "WOCKPHARMA"
+    },
+    "V-Mart Retail": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/retail/v-martretail/VR03",
+        "type": "Retail",
+        "id": "v-martretail",
+        "symbol": "VMART"
+    },
+    "Dr Lal PathLab": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drlalpathlabs/DLP01",
+        "type": "Pharmaceuticals",
+        "id": "drlalpathlabs",
+        "symbol": "LALPATHLAB"
+    },
+    "RITES": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/rites/R02",
+        "type": "Diversified",
+        "id": "rites",
+        "symbol": "RITES"
+    },
+    "GSFC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fertilisers/gujaratstatefertilizerschemicals/GSF",
+        "type": "Fertilisers",
+        "id": "gujaratstatefertilizerschemicals",
+        "symbol": "GSFC"
+    },
+    "Sterlite Techno": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cables-telephone/sterlitetechnologies/ST20",
+        "type": "Cables - Telephone",
+        "id": "sterlitetechnologies",
+        "symbol": "STLTECH"
+    },
+    "Century": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/centurytextilesindustries/CTI",
+        "type": "Diversified",
+        "id": "centurytextilesindustries",
+        "symbol": "CENTURYTEX"
+    },
+    "Manappuram Fin": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/manappuramfinance/MGF01",
+        "type": "Finance - Leasing & Hire Purchase",
+        "id": "manappuramfinance",
+        "symbol": "MANAPPURAM"
+    },
+    "Intellect Desig": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/intellectdesignarena/IDA",
+        "type": "Computers - Software",
+        "id": "intellectdesignarena",
+        "symbol": "INTELLECT"
+    },
+    "Blue Dart": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/couriers/bluedartexpress/BDE",
+        "type": "Couriers",
+        "id": "bluedartexpress",
+        "symbol": "BLUEDART"
+    },
+    "IDFC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-term-lending-institutions/idfc/IDF",
+        "type": "Finance - Term Lending Institutions",
+        "id": "idfc",
+        "symbol": "IDFC"
+    },
+    "V-Guard Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electric-equipment/v-guardindustries/VI02",
+        "type": "Electric Equipment",
+        "id": "v-guardindustries",
+        "symbol": "VGUARD"
+    },
+    "TTK Prestige": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/domestic-appliances/ttkprestige/TTK02",
+        "type": "Domestic Appliances",
+        "id": "ttkprestige",
+        "symbol": "TTKPRESTIG"
+    },
+    "SUMITOMO": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pesticides-agrochemicals/sumitomochemicalindialimite/SUMIC54292",
+        "type": "Pesticides & Agrochemicals",
+        "id": "sumitomochemicalindialimite",
+        "symbol": "SUMICHEM"
+    },
+    "Hemisphere": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-real-estate/hemispherepropertiesindia/HPI01",
+        "type": "Construction - Real Estate",
+        "id": "hemispherepropertiesindia",
+        "symbol": "HEMIPROP"
+    },
+    "Medplus Health": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/food-drug-retailing/medplushealthservices/MHS01",
+        "type": "Food & Drug Retailing",
+        "id": "medplushealthservices",
+        "symbol": "MEDPLUS"
+    },
+    "Vardhman Text": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-spinning-cotton-blended/vardhmantextiles/VT10",
+        "type": "Textiles - Spinning - Cotton Blended",
+        "id": "vardhmantextiles",
+        "symbol": "VTL"
+    },
+    "SAIL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-large/steelauthorityindia/SAI",
+        "type": "Steel - Large",
+        "id": "steelauthorityindia",
+        "symbol": "SAIL"
+    },
+    "Hikal": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/hikal/H05",
+        "type": "Pharmaceuticals",
+        "id": "hikal",
+        "symbol": "HIKAL"
+    },
+    "MTAR Tech": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/aerospace-defence/mtartechnologies/MT15",
+        "type": "Aerospace & Defence",
+        "id": "mtartechnologies",
+        "symbol": "MTARTECH"
+    },
+    "Guj Alkali": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/gujaratalkalieschemicals/GAC01",
+        "type": "Chemicals",
+        "id": "gujaratalkalieschemicals",
+        "symbol": "GUJALKALI"
+    },
+    "APL Apollo": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-tubes-pipes/aplapollotubes/BT09",
+        "type": "Steel - Tubes & Pipes",
+        "id": "aplapollotubes",
+        "symbol": "APLAPOLLO"
+    },
+    "Godfrey Phillip": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cigarettes/godfreyphillipsindia/GPI",
+        "type": "Cigarettes",
+        "id": "godfreyphillipsindia",
+        "symbol": "GODFRYPHLP"
+    },
+    "EngineersInd": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/engineersindia/EI14",
+        "type": "Infrastructure - General",
+        "id": "engineersindia",
+        "symbol": "ENGINERSIN"
+    },
+    "Vinati Organics": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/vinatiorganics/VO01",
+        "type": "Chemicals",
+        "id": "vinatiorganics",
+        "symbol": "VINATIORGA"
+    },
+    "Radico Khaitan": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/breweries-distilleries/radicokhaitan/RK01",
+        "type": "Breweries & Distilleries",
+        "id": "radicokhaitan",
+        "symbol": "RADICO"
+    },
+    "BASF": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/basfindia/BAS",
+        "type": "Chemicals",
+        "id": "basfindia",
+        "symbol": "BASF"
+    },
+    "RHI Magnesita": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-products-building-materials/rhimagnesitaindia/OR01",
+        "type": "Cement - Products & Building Materials",
+        "id": "rhimagnesitaindia",
+        "symbol": "RHIM"
+    },
+    "City Union Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/cityunionbank/CUB",
+        "type": "Banks - Private Sector",
+        "id": "cityunionbank",
+        "symbol": "CUB"
+    },
+    "Vakrangee": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software-medium-small/vakrangee/VS",
+        "type": "Computers - Software Medium & Small",
+        "id": "vakrangee",
+        "symbol": "VAKRANGEE"
+    },
+    "IFB Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/consumer-goods-white-goods/ifbindustries/IFB02",
+        "type": "Consumer Goods - White Goods",
+        "id": "ifbindustries",
+        "symbol": "IFBIND"
+    },
+    "Shipping Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/shipping/shippingcorporationindia/SCI",
+        "type": "Shipping",
+        "id": "shippingcorporationindia",
+        "symbol": "SCI"
+    },
+    "SJVN": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/sjvn/S11",
+        "type": "Power - Generation & Distribution",
+        "id": "sjvn",
+        "symbol": "SJVN"
+    },
+    "VIP Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/household-personal-products/vipindustries/VIP",
+        "type": "Household & Personal Products",
+        "id": "vipindustries",
+        "symbol": "VIPIND"
+    },
+    "NMDC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/mining-minerals/nmdc/NMD02",
+        "type": "Mining & Minerals",
+        "id": "nmdc",
+        "symbol": "NMDC"
+    },
+    "Poonawalla Fin": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/poonawallafincorp/MF20",
+        "type": "Finance - Leasing & Hire Purchase",
+        "id": "poonawallafincorp",
+        "symbol": "POONAWALLA"
+    },
+    "Tata Steel": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/iron-steel/tatasteel/TIS",
+        "type": "Iron & Steel",
+        "id": "tatasteel",
+        "symbol": "TATASTEEL"
+    },
+    "CG Power ": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electric-equipment/cgpowerindustrialsolutions/CG",
+        "type": "Electric Equipment",
+        "id": "cgpowerindustrialsolutions",
+        "symbol": "CGPOWER"
+    },
+    "IDBI Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/bank-private/idbibank/IDB05",
+        "type": "Bank - Private",
+        "id": "idbibank",
+        "symbol": "IDBI"
+    },
+    "BSE Limited": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/bselimited/B08",
+        "type": "Miscellaneous",
+        "id": "bselimited",
+        "symbol": "BSE"
+    },
+    "Union Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/unionbankindia/UBI01",
+        "type": "Banks - Public Sector",
+        "id": "unionbankindia",
+        "symbol": "UNIONBANK"
+    },
+    "Sunteck Realty": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/sunteckrealty/SR05",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "sunteckrealty",
+        "symbol": "SUNTECK"
+    },
+    "IGL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/indraprasthagas/IG04",
+        "type": "Oil Drilling And Exploration",
+        "id": "indraprasthagas",
+        "symbol": "IGL"
+    },
+    "TCS": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS",
+        "type": "Computers - Software",
+        "id": "tataconsultancyservices",
+        "symbol": "TCS"
+    },
+    "HDFC Life": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/hdfclifeinsurancecompany/HSL01",
+        "type": "Life & Health Insurance",
+        "id": "hdfclifeinsurancecompany",
+        "symbol": "HDFCLIFE"
+    },
+    "Avenue Supermar": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19",
+        "type": "Retail",
+        "id": "avenuesupermarts",
+        "symbol": "DMART"
+    },
+    "Astral Ltd": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/plastics/astrallimited/APT02",
+        "type": "Plastics",
+        "id": "astrallimited",
+        "symbol": "ASTRAL"
+    },
+    "L&T Technology": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/lttechnologyservices/LTS",
+        "type": "Computers - Software",
+        "id": "lttechnologyservices",
+        "symbol": "LTTS"
+    },
+    "HDFC Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01",
+        "type": "Banks - Private Sector",
+        "id": "hdfcbank",
+        "symbol": "HDFCBANK"
+    },
+    "GNFC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fertilisers/gujaratnarmadavalleyfertilizerschemicals/GNV",
+        "type": "Fertilisers",
+        "id": "gujaratnarmadavalleyfertilizerschemicals",
+        "symbol": "GNFC"
+    },
+    "Motilal Oswal": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-general/motilaloswalfinancialservices/MOF01",
+        "type": "Finance - General",
+        "id": "motilaloswalfinancialservices",
+        "symbol": "MOTILALOFS"
+    },
+    "Yes Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/yesbank/YB",
+        "type": "Banks - Private Sector",
+        "id": "yesbank",
+        "symbol": "YESBANK"
+    },
+    "Triveni Turbine": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electric-equipment/triveniturbine/TT14",
+        "type": "Electric Equipment",
+        "id": "triveniturbine",
+        "symbol": "TRITURBINE"
+    },
+    "COFORGE LTD.": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/coforgelimited/NII02",
+        "type": "Computers - Software",
+        "id": "coforgelimited",
+        "symbol": "COFORGE"
+    },
+    "New India Assur": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/newindiaassurancecompany/NIA",
+        "type": "Miscellaneous",
+        "id": "newindiaassurancecompany",
+        "symbol": "NIACL"
+    },
+    "LIC Housing Fin": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-housing/lichousingfinance/LIC",
+        "type": "Finance - Housing",
+        "id": "lichousingfinance",
+        "symbol": "LICHSGFIN"
+    },
+    "Equitas Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/bank-private/equitassmallfinancebank/ESF",
+        "type": "Bank - Private",
+        "id": "equitassmallfinancebank",
+        "symbol": "EQUITASBNK"
+    },
+    "NALCO": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/aluminium/nationalaluminiumcompany/NAC",
+        "type": "Aluminium",
+        "id": "nationalaluminiumcompany",
+        "symbol": "NATIONALUM"
+    },
+    "INOX Leisure": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/inoxleisure/INO01",
+        "type": "Media & Entertainment",
+        "id": "inoxleisure",
+        "symbol": "INOXLEISUR"
+    },
+    "Supreme Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/plastics/supremeindustries/SI48",
+        "type": "Plastics",
+        "id": "supremeindustries",
+        "symbol": "SUPREMEIND"
+    },
+    "Star Health": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/starhealthalliedinsurancecompany/SHA",
+        "type": "Diversified",
+        "id": "starhealthalliedinsurancecompany",
+        "symbol": "STARHEALTH"
+    },
+    "NLC India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/nlcindia/NLC",
+        "type": "Power - Generation & Distribution",
+        "id": "nlcindia",
+        "symbol": "NLCINDIA"
+    },
+    "Indo Count": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-spinning-cotton-blended/indocountindustries/ICI07",
+        "type": "Textiles - Spinning - Cotton Blended",
+        "id": "indocountindustries",
+        "symbol": "ICIL"
+    },
+    "Piramal Enter": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/piramalenterprises/PH05",
+        "type": "Pharmaceuticals",
+        "id": "piramalenterprises",
+        "symbol": "PEL"
+    },
+    "Quess Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/engineering/quesscorp/QC",
+        "type": "Engineering",
+        "id": "quesscorp",
+        "symbol": "QUESS"
+    },
+    "Glenmark": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/glenmarkpharma/GP08",
+        "type": "Pharmaceuticals",
+        "id": "glenmarkpharma",
+        "symbol": "GLENMARK"
+    },
+    "AB Capital": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/adityabirlacapital/ABC9",
+        "type": "Finance - Investments",
+        "id": "adityabirlacapital",
+        "symbol": "ABCAPITAL"
+    },
+    "BHEL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/bharatheavyelectricals/BHE",
+        "type": "Infrastructure - General",
+        "id": "bharatheavyelectricals",
+        "symbol": "BHEL"
+    },
+    "Alok Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-weaving/alokindustries/AI54",
+        "type": "Textiles - Weaving",
+        "id": "alokindustries",
+        "symbol": "ALOKINDS"
+    },
+    "AIA Engineering": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/castings-forgings/aiaengineering/AIE01",
+        "type": "Castings & Forgings",
+        "id": "aiaengineering",
+        "symbol": "AIAENG"
+    },
+    "ICICI Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/icicibank/ICI02",
+        "type": "Banks - Private Sector",
+        "id": "icicibank",
+        "symbol": "ICICIBANK"
+    },
+    "Clean Science": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/cleansciencetechnology/CST",
+        "type": "Speciality Chemicals",
+        "id": "cleansciencetechnology",
+        "symbol": "CLEAN"
+    },
+    "Bajaj Finserv": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/bajajfinserv/BF04",
+        "type": "Finance - Investments",
+        "id": "bajajfinserv",
+        "symbol": "BAJAJFINSV"
+    },
+    "UPL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/upl/UP04",
+        "type": "Chemicals",
+        "id": "upl",
+        "symbol": "UPL"
+    },
+    "Brigade Ent": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/brigadeenterprises/BE08",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "brigadeenterprises",
+        "symbol": "BRIGADE"
+    },
+    "Cera Sanitary": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/ceramics-granite/cerasanitaryware/CS18",
+        "type": "Ceramics & Granite",
+        "id": "cerasanitaryware",
+        "symbol": "CERA"
+    },
+    "Godrej Consumer": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/personal-care/godrejconsumerproducts/GCP",
+        "type": "Personal Care",
+        "id": "godrejconsumerproducts",
+        "symbol": "GODREJCP"
+    },
+    "Zee Entertain": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/zeeentertainmententerprises/ZEE",
+        "type": "Media & Entertainment",
+        "id": "zeeentertainmententerprises",
+        "symbol": "ZEEL"
+    },
+    "Mindtree": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/mindtree/MT13",
+        "type": "Computers - Software",
+        "id": "mindtree",
+        "symbol": "MINDTREE"
+    },
+    "AU Small Financ": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/ausmallfinancebank/ASF02",
+        "type": "Banks - Private Sector",
+        "id": "ausmallfinancebank",
+        "symbol": "AUBANK"
+    },
+    "Angel One": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-stock-broking/angelone/ABL03",
+        "type": "Finance - Stock Broking",
+        "id": "angelone",
+        "symbol": "ANGELONE"
+    },
+    "Jindal (Hisar)": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-large/jindalstainlesshisar/JSH",
+        "type": "Steel - Large",
+        "id": "jindalstainlesshisar",
+        "symbol": "JSLHISAR"
+    },
+    "Borosil Renew": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/glass-glass-products/borosilrenewablesltd/BGW",
+        "type": "Glass & Glass Products",
+        "id": "borosilrenewablesltd",
+        "symbol": "BORORENEW"
+    },
+    "GAIL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/gailindia/GAI",
+        "type": "Oil Drilling And Exploration",
+        "id": "gailindia",
+        "symbol": "GAIL"
+    },
+    "Route": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/it-services-consulting/routemobileltd/RML02",
+        "type": "IT Services & Consulting",
+        "id": "routemobileltd",
+        "symbol": "ROUTE"
+    },
+    "Alkyl Amines": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/alkylamineschemicals/AAC",
+        "type": "Chemicals",
+        "id": "alkylamineschemicals",
+        "symbol": "ALKYLAMINE"
+    },
+    "Mahindra Logist": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/mahindralogistics/ML04",
+        "type": "Diversified",
+        "id": "mahindralogistics",
+        "symbol": "MAHLOG"
+    },
+    "Uflex": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/packaging/uflex/U01",
+        "type": "Packaging",
+        "id": "uflex",
+        "symbol": "UFLEX"
+    },
+    "Sun Pharma": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI",
+        "type": "Pharmaceuticals",
+        "id": "sunpharmaceuticalindustries",
+        "symbol": "SUNPHARMA"
+    },
+    "M&M Financial": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/mahindramahindrafinancialservices/MMF04",
+        "type": "Finance - NBFC",
+        "id": "mahindramahindrafinancialservices",
+        "symbol": "M&MFIN"
+    },
+    "Petronet LNG": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/petronetlng/PLN",
+        "type": "Oil Drilling And Exploration",
+        "id": "petronetlng",
+        "symbol": "PETRONET"
+    },
+    "Graphite India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electrodes-graphite/graphiteindia/GI13",
+        "type": "Electrodes & Graphite",
+        "id": "graphiteindia",
+        "symbol": "GRAPHITE"
+    },
+    "MMTC Ltd": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/trading/mmtc/MMT",
+        "type": "Trading",
+        "id": "mmtc",
+        "symbol": "MMTC"
+    },
+    "Happiest Minds ": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/happiestmindstechnologiesltd/HMT01",
+        "type": "Computers - Software",
+        "id": "happiestmindstechnologiesltd",
+        "symbol": "HAPPSTMNDS"
+    },
+    "Garware Technic": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-general/garwaretechnicalfibres/GWR",
+        "type": "Textiles - General",
+        "id": "garwaretechnicalfibres",
+        "symbol": "GARFIBRES"
+    },
+    "Coromandel Int": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fertilisers/coromandelinternational/CI45",
+        "type": "Fertilisers",
+        "id": "coromandelinternational",
+        "symbol": "COROMANDEL"
+    },
+    "Bombay Burmah": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/plantations-tea-coffee/bombayburmahtradingcorporation/BBT",
+        "type": "Plantations - Tea & Coffee",
+        "id": "bombayburmahtradingcorporation",
+        "symbol": "BBTC"
+    },
+    "MCX India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/multicommodityexchangeindia/MCE",
+        "type": "Miscellaneous",
+        "id": "multicommodityexchangeindia",
+        "symbol": "MCX"
+    },
+    "Guj State Petro": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/gujaratstatepetronet/GSP02",
+        "type": "Oil Drilling And Exploration",
+        "id": "gujaratstatepetronet",
+        "symbol": "GSPL"
+    },
+    "CHEMPLAST SANMA": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/chemplastsanmar/CS23",
+        "type": "Speciality Chemicals",
+        "id": "chemplastsanmar",
+        "symbol": "CHEMPLASTS"
+    },
+    "Sun Pharma Adv": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sunpharmaadvancedresearchcompany/SPA",
+        "type": "Pharmaceuticals",
+        "id": "sunpharmaadvancedresearchcompany",
+        "symbol": "SPARC"
+    },
+    "IEX": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/indianenergyexchange/IEE",
+        "type": "Diversified",
+        "id": "indianenergyexchange",
+        "symbol": "IEX"
+    },
+    "NBCC (India)": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/nbccindia/NBC01",
+        "type": "Infrastructure - General",
+        "id": "nbccindia",
+        "symbol": "NBCC"
+    },
+    "Praj Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/engineering-heavy/prajindustries/PI17",
+        "type": "Engineering - Heavy",
+        "id": "prajindustries",
+        "symbol": "PRAJIND"
+    },
+    "CG Consumer": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electricals/cromptongreavesconsumerelectrical/CGC01",
+        "type": "Electricals",
+        "id": "cromptongreavesconsumerelectrical",
+        "symbol": "CROMPTON"
+    },
+    "AstraZeneca": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/astrazenecapharma/AZP",
+        "type": "Pharmaceuticals",
+        "id": "astrazenecapharma",
+        "symbol": "ASTRAZEN"
+    },
+    "PNC Infratech": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/pncinfratech/PI26",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "pncinfratech",
+        "symbol": "PNCINFRA"
+    },
+    "Vijaya Diagnost": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hospital-healthcare-services/vijayadiagnosticcentre/VDC01",
+        "type": "Hospital & Healthcare Services",
+        "id": "vijayadiagnosticcentre",
+        "symbol": "VIJAYA"
+    },
+    "Tata Steel Long": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-sponge-iron/tatasteellongproducts/TSI",
+        "type": "Steel - Sponge Iron",
+        "id": "tatasteellongproducts",
+        "symbol": "TATASTLLP"
+    },
+    "CreditAccess Gr": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/creditaccessgrameen/CG03",
+        "type": "Finance - NBFC",
+        "id": "creditaccessgrameen",
+        "symbol": "CREDITACC"
+    },
+    "Indiabulls Real": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/indiabullsrealestate/IRE01",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "indiabullsrealestate",
+        "symbol": "IBREALEST"
+    },
+    "Indian Hotels": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hotels/indianhotelscompany/IHC",
+        "type": "Hotels",
+        "id": "indianhotelscompany",
+        "symbol": "INDHOTEL"
+    },
+    "Finolex Cables": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cables-telephone/finolexcables/FC01",
+        "type": "Cables - Telephone",
+        "id": "finolexcables",
+        "symbol": "FINCABLES"
+    },
+    "Grindwell Norto": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/abrasives/grindwellnorton/GN",
+        "type": "Abrasives",
+        "id": "grindwellnorton",
+        "symbol": "GRINDWELL"
+    },
+    "Schaeffler Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/bearings/schaefflerindia/FAG",
+        "type": "Bearings",
+        "id": "schaefflerindia",
+        "symbol": "SCHAEFFLER"
+    },
+    "CDSL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/centraldepositoryservicesltd/CDS",
+        "type": "Finance - Investments",
+        "id": "centraldepositoryservicesltd",
+        "symbol": "CDSL"
+    },
+    "Latent View": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/it-services-consulting/latentviewanalytics/LVA",
+        "type": "IT Services & Consulting",
+        "id": "latentviewanalytics",
+        "symbol": "LATENTVIEW"
+    },
+    "APTUS VALUE": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-housing/aptusvaluehousingfinanceindia/AVH",
+        "type": "Finance - Housing",
+        "id": "aptusvaluehousingfinanceindia",
+        "symbol": "APTUS"
+    },
+    "HCL Tech": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/hcltechnologies/HCL02",
+        "type": "Computers - Software",
+        "id": "hcltechnologies",
+        "symbol": "HCLTECH"
+    },
+    "Godrej Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/personal-care/godrejindustries/GI23",
+        "type": "Personal Care",
+        "id": "godrejindustries",
+        "symbol": "GODREJIND"
+    },
+    "Sterling Wilson": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/sterlingwilsonrenewableenergy/SWS",
+        "type": "Power Generation/Distribution",
+        "id": "sterlingwilsonrenewableenergy",
+        "symbol": "SWSOLAR"
+    },
+    "Aster DM Health": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/asterdmhealthcareltd/ADH",
+        "type": "Diversified",
+        "id": "asterdmhealthcareltd",
+        "symbol": "ASTERDM"
+    },
+    "PCBL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/carbon-black/pcbl/PCB01",
+        "type": "Carbon Black",
+        "id": "pcbl",
+        "symbol": "PCBL"
+    },
+    "Adani Ports": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniportsspecialeconomiczone/MPS",
+        "type": "Infrastructure - General",
+        "id": "adaniportsspecialeconomiczone",
+        "symbol": "ADANIPORTS"
+    },
+    "Cyient": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/cyient/IE07",
+        "type": "Computers - Software",
+        "id": "cyient",
+        "symbol": "CYIENT"
+    },
+    "Bajaj Electric": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/domestic-appliances/bajajelectricals/BE",
+        "type": "Domestic Appliances",
+        "id": "bajajelectricals",
+        "symbol": "BAJAJELEC"
+    },
+    "Delta Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/deltacorp/DC11",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "deltacorp",
+        "symbol": "DELTACORP"
+    },
+    "Tata Power": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/tatapowercompany/TPC",
+        "type": "Power - Generation & Distribution",
+        "id": "tatapowercompany",
+        "symbol": "TATAPOWER"
+    },
+    "NCC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-civil/ncc/NCC01",
+        "type": "Construction & Contracting - Civil",
+        "id": "ncc",
+        "symbol": "NCC"
+    },
+    "Just Dial": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/justdial/JD",
+        "type": "Miscellaneous",
+        "id": "justdial",
+        "symbol": "JUSTDIAL"
+    },
+    "Whirlpool": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/consumer-goods-white-goods/whirlpoolindia/WI",
+        "type": "Consumer Goods - White Goods",
+        "id": "whirlpoolindia",
+        "symbol": "WHIRLPOOL"
+    },
+    "Affle India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/it-services-consulting/affleindia/AI82",
+        "type": "IT Services & Consulting",
+        "id": "affleindia",
+        "symbol": "AFFLE"
+    },
+    "Railtel": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-services/railtelcorporationindia/RCo01",
+        "type": "Telecommunications Services",
+        "id": "railtelcorporationindia",
+        "symbol": "RAILTEL"
+    },
+    "Hind Copper": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/metals-non-ferrous/hindustancopper/HC07",
+        "type": "Metals - Non Ferrous",
+        "id": "hindustancopper",
+        "symbol": "HINDCOPPER"
+    },
+    "Ipca Labs": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL",
+        "type": "Pharmaceuticals",
+        "id": "ipcalaboratories",
+        "symbol": "IPCALAB"
+    },
+    "DCM Shriram": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/dcmshriram/DCM02",
+        "type": "Diversified",
+        "id": "dcmshriram",
+        "symbol": "DCMSHRIRAM"
+    },
+    "Cummins": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/engines/cumminsindia/CI02",
+        "type": "Engines",
+        "id": "cumminsindia",
+        "symbol": "CUMMINSIND"
+    },
+    "Advanced Enzyme": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/advancedenzymetechnologies/AET",
+        "type": "Pharmaceuticals",
+        "id": "advancedenzymetechnologies",
+        "symbol": "ADVENZYMES"
+    },
+    "Chambal Fert": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fertilisers/chambalfertiliserschemicals/CFC",
+        "type": "Fertilisers",
+        "id": "chambalfertiliserschemicals",
+        "symbol": "CHAMBLFERT"
+    },
+    "Rajesh Exports": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diamond-cutting-jewellery-precious-metals/rajeshexports/RE07",
+        "type": "Diamond Cutting & Jewellery & Precious Metals",
+        "id": "rajeshexports",
+        "symbol": "RAJESHEXPO"
+    },
+    "Rashtriya Chem": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fertilisers/rashtriyachemicalsfertilisers/RCF01",
+        "type": "Fertilisers",
+        "id": "rashtriyachemicalsfertilisers",
+        "symbol": "RCF"
+    },
+    "SBI": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI",
+        "type": "Banks - Public Sector",
+        "id": "statebankindia",
+        "symbol": "SBIN"
+    },
+    "Vodafone Idea": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/vodafoneidealimited/IC8",
+        "type": "Telecommunications - Service",
+        "id": "vodafoneidealimited",
+        "symbol": "IDEA"
+    },
+    "Cochin Shipyard": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/cochinshipyard/CS",
+        "type": "Miscellaneous",
+        "id": "cochinshipyard",
+        "symbol": "COCHINSHIP"
+    },
+    "Jubilant Pharmo": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/jubilantpharmova/JO03",
+        "type": "Pharmaceuticals",
+        "id": "jubilantpharmova",
+        "symbol": "JUBLPHARMA"
+    },
+    "MOIL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/mining-minerals/moil/M18",
+        "type": "Mining & Minerals",
+        "id": "moil",
+        "symbol": "MOIL"
+    },
+    "EPL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/packaging/epl/EP11",
+        "type": "Packaging",
+        "id": "epl",
+        "symbol": "EPL"
+    },
+    "General Insuran": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/generalinsurancecorporationindia/GIC12",
+        "type": "Diversified",
+        "id": "generalinsurancecorporationindia",
+        "symbol": "GICRE"
+    },
+    "Tata Elxsi": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/tataelxsi/TE",
+        "type": "Computers - Software",
+        "id": "tataelxsi",
+        "symbol": "TATAELXSI"
+    },
+    "Balkrishna Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/tyres/balkrishnaindustries/BI03",
+        "type": "Tyres",
+        "id": "balkrishnaindustries",
+        "symbol": "BALKRISIND"
+    },
+    "Tata Comm": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/tatacommunications/TC17",
+        "type": "Telecommunications - Service",
+        "id": "tatacommunications",
+        "symbol": "TATACOMM"
+    },
+    "Bosch": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/bosch/B05",
+        "type": "Auto Ancillaries",
+        "id": "bosch",
+        "symbol": "BOSCHLTD"
+    },
+    "Muthoot Finance": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/muthootfinance/MF10",
+        "type": "Finance - Investments",
+        "id": "muthootfinance",
+        "symbol": "MUTHOOTFIN"
+    },
+    "Sundram": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/fasteners/sundramfasteners/SF23",
+        "type": "Fasteners",
+        "id": "sundramfasteners",
+        "symbol": "SUNDRMFAST"
+    },
+    "Oracle Fin Serv": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/oraclefinancialservicessoftware/OFS01",
+        "type": "Computers - Software",
+        "id": "oraclefinancialservicessoftware",
+        "symbol": "OFSS"
+    },
+    "Container Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/transport-logistics/containercorporationindia/CCI",
+        "type": "Transport & Logistics",
+        "id": "containercorporationindia",
+        "symbol": "CONCOR"
+    },
+    "Tata Inv Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/tatainvestmentcorporation/TIC",
+        "type": "Finance - Investments",
+        "id": "tatainvestmentcorporation",
+        "symbol": "TATAINVEST"
+    },
+    "Jubilant Ing.": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/jubilantingrevia/JI14",
+        "type": "Speciality Chemicals",
+        "id": "jubilantingrevia",
+        "symbol": "JUBLINGREA"
+    },
+    "India Cements": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/indiacements/IC",
+        "type": "Cement - Major",
+        "id": "indiacements",
+        "symbol": "INDIACEM"
+    },
+    "Caplin Labs": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/caplinpointlaboratories/CPL",
+        "type": "Pharmaceuticals",
+        "id": "caplinpointlaboratories",
+        "symbol": "CAPLIPOINT"
+    },
+    "Sun TV Network": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/suntvnetwork/STN01",
+        "type": "Media & Entertainment",
+        "id": "suntvnetwork",
+        "symbol": "SUNTV"
+    },
+    "Hind Zinc": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/metals-non-ferrous/hindustanzinc/HZ",
+        "type": "Metals - Non Ferrous",
+        "id": "hindustanzinc",
+        "symbol": "HINDZINC"
+    },
+    "HUDCO": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/housingurbandevelopmentcorporation/HUD",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "housingurbandevelopmentcorporation",
+        "symbol": "HUDCO"
+    },
+    "Allcargo": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/transport-logistics/allcargologistics/AGL02",
+        "type": "Transport & Logistics",
+        "id": "allcargologistics",
+        "symbol": "ALLCARGO"
+    },
+    "3M India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/3mindia/MI42",
+        "type": "Diversified",
+        "id": "3mindia",
+        "symbol": "3MINDIA"
+    },
+    "L&T Infotech": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/larsentoubroinfotech/LI12",
+        "type": "Computers - Software",
+        "id": "larsentoubroinfotech",
+        "symbol": "LTI"
+    },
+    "Mastek": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software/mastek/M",
+        "type": "Computers - Software",
+        "id": "mastek",
+        "symbol": "MASTEK"
+    },
+    "IOC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/refineries/indianoilcorporation/IOC",
+        "type": "Refineries",
+        "id": "indianoilcorporation",
+        "symbol": "IOC"
+    },
+    "UCO Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/ucobank/UCO",
+        "type": "Banks - Public Sector",
+        "id": "ucobank",
+        "symbol": "UCOBANK"
+    },
+    "Laxmi Organic": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/laxmiorganicindustries/LOI",
+        "type": "Speciality Chemicals",
+        "id": "laxmiorganicindustries",
+        "symbol": "LXCHEM"
+    },
+    "IDFC First Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/bank-private/idfcfirstbank/IDF01",
+        "type": "Bank - Private",
+        "id": "idfcfirstbank",
+        "symbol": "IDFCFIRSTB"
+    },
+    "Torrent Pharma": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06",
+        "type": "Pharmaceuticals",
+        "id": "torrentpharmaceuticals",
+        "symbol": "TORNTPHARM"
+    },
+    "Minda Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/mindaindustries/MI4",
+        "type": "Auto Ancillaries",
+        "id": "mindaindustries",
+        "symbol": "MINDAIND"
+    },
+    "DLF": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/dlf/D04",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "dlf",
+        "symbol": "DLF"
+    },
+    "Hatsun Agro": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/food-processing/hatsunagroproducts/HAP",
+        "type": "Food Processing",
+        "id": "hatsunagroproducts",
+        "symbol": "HATSUN"
+    },
+    "Thermax": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/thermax/T",
+        "type": "Infrastructure - General",
+        "id": "thermax",
+        "symbol": "THERMAX"
+    },
+    "Marico": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/personal-care/marico/M13",
+        "type": "Personal Care",
+        "id": "marico",
+        "symbol": "MARICO"
+    },
+    "Kalyan Jeweller": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diamond--jewellery/kalyanjewellersindia/KJI01",
+        "type": "Diamond  &  Jewellery",
+        "id": "kalyanjewellersindia",
+        "symbol": "KALYANKJIL"
+    },
+    "Sudarshan Chem": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/dyes-pigments/sudarshanchemicalindustries/SCI08",
+        "type": "Dyes & Pigments",
+        "id": "sudarshanchemicalindustries",
+        "symbol": "SUDARSCHEM"
+    },
+    "M&M": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-cars-jeeps/mahindramahindra/MM",
+        "type": "Auto - Cars & Jeeps",
+        "id": "mahindramahindra",
+        "symbol": "M&M"
+    },
+    "ABB India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/abbindia/ABB",
+        "type": "Infrastructure - General",
+        "id": "abbindia",
+        "symbol": "ABB"
+    },
+    "PVR": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/media-entertainment/pvr/PVR",
+        "type": "Media & Entertainment",
+        "id": "pvr",
+        "symbol": "PVR"
+    },
+    "Ramco Cements": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/theramcocements/MC",
+        "type": "Cement - Major",
+        "id": "theramcocements",
+        "symbol": "RAMCOCEM"
+    },
+    "Power Finance": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-term-lending-institutions/powerfinancecorporation/PFC02",
+        "type": "Finance - Term Lending Institutions",
+        "id": "powerfinancecorporation",
+        "symbol": "PFC"
+    },
+    "Can Fin Homes": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-housing/canfinhomes/CFH",
+        "type": "Finance - Housing",
+        "id": "canfinhomes",
+        "symbol": "CANFINHOME"
+    },
+    "Amara Raja Batt": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/amararajabatteries/ARB",
+        "type": "Auto Ancillaries",
+        "id": "amararajabatteries",
+        "symbol": "AMARAJABAT"
+    },
+    "TeamLease Ser.": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/teamleaseservices/TS13",
+        "type": "Miscellaneous",
+        "id": "teamleaseservices",
+        "symbol": "TEAMLEASE"
+    },
+    "Suven Pharma": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals-drugs/suvenpharmaceuticals/SP19",
+        "type": "Pharmaceuticals & Drugs",
+        "id": "suvenpharmaceuticals",
+        "symbol": "SUVENPHAR"
+    },
+    "IndusInd Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/indusindbank/IIB",
+        "type": "Banks - Private Sector",
+        "id": "indusindbank",
+        "symbol": "INDUSINDBK"
+    },
+    "Amber Enterpris": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/amberenterprisesindialimited/AEI01",
+        "type": "Miscellaneous",
+        "id": "amberenterprisesindialimited",
+        "symbol": "AMBER"
+    },
+    "SBI Life Insura": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/sbilifeinsurancecompany/SLI03",
+        "type": "Diversified",
+        "id": "sbilifeinsurancecompany",
+        "symbol": "SBILIFE"
+    },
+    "Rallis India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pesticides-agro-chemicals/rallisindia/RI03",
+        "type": "Pesticides & Agro Chemicals",
+        "id": "rallisindia",
+        "symbol": "RALLIS"
+    },
+    "P and G": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/personal-care/proctergamblehygienehealthcare/PGH",
+        "type": "Personal Care",
+        "id": "proctergamblehygienehealthcare",
+        "symbol": "PGHH"
+    },
+    "Havells India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electric-equipment/havellsindia/HI01",
+        "type": "Electric Equipment",
+        "id": "havellsindia",
+        "symbol": "HAVELLS"
+    },
+    "Mahanagar Gas": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/refineries/mahanagargas/MG02",
+        "type": "Refineries",
+        "id": "mahanagargas",
+        "symbol": "MGL"
+    },
+    "IRCTC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/irctc-indianrailwaycateringtourismcorp/IRC",
+        "type": "Miscellaneous",
+        "id": "irctc-indianrailwaycateringtourismcorp",
+        "symbol": "IRCTC"
+    },
+    "ICICI Prudentia": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-general/iciciprudentiallifeinsurancecompany/IPL01",
+        "type": "Finance - General",
+        "id": "iciciprudentiallifeinsurancecompany",
+        "symbol": "ICICIPRULI"
+    },
+    "Bank of India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/bankindia/BOI",
+        "type": "Banks - Public Sector",
+        "id": "bankindia",
+        "symbol": "BANKINDIA"
+    },
+    "ICICI Securitie": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/icicisecuritiesltd/ISL04",
+        "type": "Miscellaneous",
+        "id": "icicisecuritiesltd",
+        "symbol": "ISEC"
+    },
+    "Endurance Techn": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/endurancetechnologies/ET01",
+        "type": "Auto - 2 & 3 Wheelers",
+        "id": "endurancetechnologies",
+        "symbol": "ENDURANCE"
+    },
+    "Procter&Gamble": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/proctergamblehealth/M12",
+        "type": "Pharmaceuticals",
+        "id": "proctergamblehealth",
+        "symbol": "PGHL"
+    },
+    "Adani Enterpris": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13",
+        "type": "Trading",
+        "id": "adanienterprises",
+        "symbol": "ADANIENT"
+    },
+    "Elgi Equipments": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/compressors/elgiequipments/EE01",
+        "type": "Compressors",
+        "id": "elgiequipments",
+        "symbol": "ELGIEQUIP"
+    },
+    "Voltas": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/diversified/voltas/V",
+        "type": "Diversified",
+        "id": "voltas",
+        "symbol": "VOLTAS"
+    },
+    "Macrotech Dev": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-residential-commercial-complexes/macrotechdevelopers/MD03",
+        "type": "Construction - Residential & Commercial Complexes",
+        "id": "macrotechdevelopers",
+        "symbol": "LODHA"
+    },
+    "Exide Ind": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/exideindustries/EI",
+        "type": "Auto Ancillaries",
+        "id": "exideindustries",
+        "symbol": "EXIDEIND"
+    },
+    "Aarti Drugs": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/aartidrugs/AD",
+        "type": "Pharmaceuticals",
+        "id": "aartidrugs",
+        "symbol": "AARTIDRUGS"
+    },
+    "Dhani Services": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/dhaniservices/IS13",
+        "type": "Finance - Investments",
+        "id": "dhaniservices",
+        "symbol": "DHANI"
+    },
+    "HDFC AMC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/hdfcassetmanagementcompany/HAM02",
+        "type": "Finance - Investments",
+        "id": "hdfcassetmanagementcompany",
+        "symbol": "HDFCAMC"
+    },
+    "Zydus Life": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals-drugs/zyduslifesciences/CHC",
+        "type": "Pharmaceuticals & Drugs",
+        "id": "zyduslifesciences",
+        "symbol": "ZYDUSLIFE"
+    },
+    "MRF": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/tyres/mrf/MRF",
+        "type": "Tyres",
+        "id": "mrf",
+        "symbol": "MRF"
+    },
+    "ITI": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-equipment/iti/ITI",
+        "type": "Telecommunications - Equipment",
+        "id": "iti",
+        "symbol": "ITI"
+    },
+    "Nippon": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/nipponlifeindiaassetmanagement/RNL",
+        "type": "Miscellaneous",
+        "id": "nipponlifeindiaassetmanagement",
+        "symbol": "NAM-INDIA"
+    },
+    "PNB": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/punjabnationalbank/PNB05",
+        "type": "Banks - Public Sector",
+        "id": "punjabnationalbank",
+        "symbol": "PNB"
+    },
+    "Laurus Labs": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/lauruslabs/LL05",
+        "type": "Pharmaceuticals",
+        "id": "lauruslabs",
+        "symbol": "LAURUSLABS"
+    },
+    "Krishna Inst.": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hospital-healthcare-services/krishnainstitutemedicalsciences/KIo01",
+        "type": "Hospital & Healthcare Services",
+        "id": "krishnainstitutemedicalsciences",
+        "symbol": "KIMS"
+    },
+    "Ircon Internati": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/engineering-heavy/irconinternational/II07",
+        "type": "Engineering - Heavy",
+        "id": "irconinternational",
+        "symbol": "IRCON"
+    },
+    "Blue Star": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/consumer-goods-white-goods/bluestar/BS",
+        "type": "Consumer Goods - White Goods",
+        "id": "bluestar",
+        "symbol": "BLUESTARCO"
+    },
+    "AAVAS Financier": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-general/aavasfinanciers/AF17",
+        "type": "Finance - General",
+        "id": "aavasfinanciers",
+        "symbol": "AAVAS"
+    },
+    "Nazara": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/software/nazaratechnologies/NT",
+        "type": "Software",
+        "id": "nazaratechnologies",
+        "symbol": "NAZARA"
+    },
+    "Larsen": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT",
+        "type": "Infrastructure - General",
+        "id": "larsentoubro",
+        "symbol": "LT"
+    },
+    "Sheela Foam": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/sheelafoam/SF14",
+        "type": "Miscellaneous",
+        "id": "sheelafoam",
+        "symbol": "SFL"
+    },
+    "Sequent Scienti": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sequentscientific/PID01",
+        "type": "Pharmaceuticals",
+        "id": "sequentscientific",
+        "symbol": "SEQUENT"
+    },
+    "Gland": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals-drugs/glandpharma/GP14",
+        "type": "Pharmaceuticals & Drugs",
+        "id": "glandpharma",
+        "symbol": "GLAND"
+    },
+    "NHPC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/nhpc/N07",
+        "type": "Power - Generation & Distribution",
+        "id": "nhpc",
+        "symbol": "NHPC"
+    },
+    "JK Paper": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/paper/jkpaper/JKP01",
+        "type": "Paper",
+        "id": "jkpaper",
+        "symbol": "JKPAPER"
+    },
+    "Vedanta": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/mining-minerals/vedanta/SG",
+        "type": "Mining & Minerals",
+        "id": "vedanta",
+        "symbol": "VEDL"
+    },
+    "Lux Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-processing/luxindustries/LHI",
+        "type": "Textiles - Processing",
+        "id": "luxindustries",
+        "symbol": "LUXIND"
+    },
+    "BPCL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC",
+        "type": "Refineries",
+        "id": "bharatpetroleumcorporation",
+        "symbol": "BPCL"
+    },
+    "JM Financial": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/jmfinancial/JMF",
+        "type": "Finance - Investments",
+        "id": "jmfinancial",
+        "symbol": "JMFINANCIL"
+    },
+    "Central Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/centralbankindia/CBO01",
+        "type": "Banks - Public Sector",
+        "id": "centralbankindia",
+        "symbol": "CENTRALBK"
+    },
+    "ONGC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/oilnaturalgascorporation/ONG",
+        "type": "Oil Drilling And Exploration",
+        "id": "oilnaturalgascorporation",
+        "symbol": "ONGC"
+    },
+    "MRPL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/refineries/mangalorerefinerypetrochemicals/MRP",
+        "type": "Refineries",
+        "id": "mangalorerefinerypetrochemicals",
+        "symbol": "MRPL"
+    },
+    "Jindal Steel": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-sponge-iron/jindalsteelpower/JSP",
+        "type": "Steel - Sponge Iron",
+        "id": "jindalsteelpower",
+        "symbol": "JINDALSTEL"
+    },
+    "JK Lakshmi Cem": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/jklakshmicement/JKL01",
+        "type": "Cement - Major",
+        "id": "jklakshmicement",
+        "symbol": "JKLAKSHMI"
+    },
+    "Cipla": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/cipla/C",
+        "type": "Pharmaceuticals",
+        "id": "cipla",
+        "symbol": "CIPLA"
+    },
+    "SKF India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/bearings/skfindia/SKF01",
+        "type": "Bearings",
+        "id": "skfindia",
+        "symbol": "SKFINDIA"
+    },
+    "Castrol": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/lubricants/castrolindia/CI01",
+        "type": "Lubricants",
+        "id": "castrolindia",
+        "symbol": "CASTROLIND"
+    },
+    "Shriram City": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/shriramcityunionfinance/SCU",
+        "type": "Finance - Leasing & Hire Purchase",
+        "id": "shriramcityunionfinance",
+        "symbol": "SHRIRAMCIT"
+    },
+    "CCL Products": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/plantations-tea-coffee/cclproductsindia/CC10",
+        "type": "Plantations - Tea & Coffee",
+        "id": "cclproductsindia",
+        "symbol": "CCL"
+    },
+    "Ceat": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/tyres/ceat/C07",
+        "type": "Tyres",
+        "id": "ceat",
+        "symbol": "CEATLTD"
+    },
+    "PI Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pesticides-agro-chemicals/piindustries/PII",
+        "type": "Pesticides & Agro Chemicals",
+        "id": "piindustries",
+        "symbol": "PIIND"
+    },
+    "TML-D": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/automobile-lcvs-hvcs/tatamotors-dvr/TATAM57000",
+        "type": "Automobile - LCVS/ HVCS",
+        "id": "tatamotors-dvr",
+        "symbol": "TATAMTRDVR"
+    },
+    "Mahindra Holida": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hotels/mahindraholidaysresortsindia/MHR",
+        "type": "Hotels",
+        "id": "mahindraholidaysresortsindia",
+        "symbol": "MHRIL"
+    },
+    "Dalmia Bharat": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/dalmiabharat/OCL",
+        "type": "Cement - Major",
+        "id": "dalmiabharat",
+        "symbol": "DALBHARAT"
+    },
+    "Bayer CropScien": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pesticides-agro-chemicals/bayercropscience/BC12",
+        "type": "Pesticides & Agro Chemicals",
+        "id": "bayercropscience",
+        "symbol": "BAYERCROP"
+    },
+    "Equitas Holding": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-general/equitasholdings/EH03",
+        "type": "Finance - General",
+        "id": "equitasholdings",
+        "symbol": "EQUITAS"
+    },
+    "Bata India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/leather-products/bataindia/BI01",
+        "type": "Leather Products",
+        "id": "bataindia",
+        "symbol": "BATAINDIA"
+    },
+    "Kajaria Ceramic": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/ceramics-granite/kajariaceramics/KC06",
+        "type": "Ceramics & Granite",
+        "id": "kajariaceramics",
+        "symbol": "KAJARIACER"
+    },
+    "Bharti Airtel": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08",
+        "type": "Telecommunications - Service",
+        "id": "bhartiairtel",
+        "symbol": "BHARTIARTL"
+    },
+    "Natco Pharma": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/natcopharma/NP07",
+        "type": "Pharmaceuticals",
+        "id": "natcopharma",
+        "symbol": "NATCOPHARM"
+    },
+    "Jyothy Labs": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/personal-care/jyothylabs/JL",
+        "type": "Personal Care",
+        "id": "jyothylabs",
+        "symbol": "JYOTHYLAB"
+    },
+    "Fortis Health": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/fortishealthcare/FH",
+        "type": "Hospitals & Medical Services",
+        "id": "fortishealthcare",
+        "symbol": "FORTIS"
+    },
+    "HPCL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC",
+        "type": "Refineries",
+        "id": "hindustanpetroleumcorporation",
+        "symbol": "HINDPETRO"
+    },
+    "Page Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/textiles-readymade-apparels/pageindustries/PI35",
+        "type": "Textiles - Readymade Apparels",
+        "id": "pageindustries",
+        "symbol": "PAGEIND"
+    },
+    "Rossari": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/rossaribiotech/RB05",
+        "type": "Speciality Chemicals",
+        "id": "rossaribiotech",
+        "symbol": "ROSSARI"
+    },
+    "KEC Intl": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-transmission-equipment/kecinternational/KEC04",
+        "type": "Power - Transmission & Equipment",
+        "id": "kecinternational",
+        "symbol": "KEC"
+    },
+    "Shree Renuka": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/sugar/shreerenukasugars/SRS03",
+        "type": "Sugar",
+        "id": "shreerenukasugars",
+        "symbol": "RENUKA"
+    },
+    "ICICI Lombard ": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/icicilombardgeneralinsurancecompany/ILG",
+        "type": "Life & Health Insurance",
+        "id": "icicilombardgeneralinsurancecompany",
+        "symbol": "ICICIGI"
+    },
+    "Bharat Forge": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/castings-forgings/bharatforge/BF03",
+        "type": "Castings & Forgings",
+        "id": "bharatforge",
+        "symbol": "BHARATFORG"
+    },
+    "Dilip Buildcon": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-civil/dilipbuildcon/DB04",
+        "type": "Construction & Contracting - Civil",
+        "id": "dilipbuildcon",
+        "symbol": "DBL"
+    },
+    "Sobha": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/sobha/SD6",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "sobha",
+        "symbol": "SOBHA"
+    },
+    "G R Infra": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-infrastructure/grinfraprojects/I09",
+        "type": "Construction - Infrastructure",
+        "id": "grinfraprojects",
+        "symbol": "GRINFRA"
+    },
+    "Westlife Dev": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hotels/westlifedevelopment/DIC",
+        "type": "Hotels",
+        "id": "westlifedevelopment",
+        "symbol": "WESTLIFE"
+    },
+    "SIS": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/sis/SIS08",
+        "type": "Miscellaneous",
+        "id": "sis",
+        "symbol": "SIS"
+    },
+    "Sanofi India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sanofiindia/AP26",
+        "type": "Pharmaceuticals",
+        "id": "sanofiindia",
+        "symbol": "SANOFI"
+    },
+    "INDUS TOWERS": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-equipment/industowers/BI14",
+        "type": "Telecommunications - Equipment",
+        "id": "industowers",
+        "symbol": "INDUSTOWER"
+    },
+    "Honeywell Autom": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-equipment/honeywellautomation/HA04",
+        "type": "Telecommunications - Equipment",
+        "id": "honeywellautomation",
+        "symbol": "HONAUT"
+    },
+    "Navin Fluorine": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/navinfluorineinternational/NFI",
+        "type": "Chemicals",
+        "id": "navinfluorineinternational",
+        "symbol": "NAVINFLUOR"
+    },
+    "Prestige Estate": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/prestigeestatesprojects/PEP02",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "prestigeestatesprojects",
+        "symbol": "PRESTIGE"
+    },
+    "Varroc Engineer": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/engineering-heavy/varrocengineering/VE08",
+        "type": "Engineering - Heavy",
+        "id": "varrocengineering",
+        "symbol": "VARROC"
+    },
+    "Jindal Stainles": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-medium-small/jindalstainless/JSL01",
+        "type": "Steel - Medium & Small",
+        "id": "jindalstainless",
+        "symbol": "JSL"
+    },
+    "FDC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/fdc/FDC",
+        "type": "Pharmaceuticals",
+        "id": "fdc",
+        "symbol": "FDC"
+    },
+    "Tube Investment": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries/tubeinvestmentsindialtd/TIIND54076",
+        "type": "Auto Ancillaries",
+        "id": "tubeinvestmentsindialtd",
+        "symbol": "TIINDIA"
+    },
+    "Chola Fin Hold": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/cholamandalamfinancialholdings/TII",
+        "type": "Miscellaneous",
+        "id": "cholamandalamfinancialholdings",
+        "symbol": "CHOLAHLDNG"
+    },
+    "RBL Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/rblbank/RB03",
+        "type": "Banks - Private Sector",
+        "id": "rblbank",
+        "symbol": "RBLBANK"
+    },
+    "ITC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cigarettes/itc/ITC",
+        "type": "Cigarettes",
+        "id": "itc",
+        "symbol": "ITC"
+    },
+    "Oberoi Realty": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/oberoirealty/OR",
+        "type": "Construction & Contracting - Real Estate",
+        "id": "oberoirealty",
+        "symbol": "OBEROIRLTY"
+    },
+    "eClerx Services": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-software-medium-small/eclerxservices/eS06",
+        "type": "Computers - Software Medium & Small",
+        "id": "eclerxservices",
+        "symbol": "ECLERX"
+    },
+    "KEI Industries": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cables-power-others/keiindustries/KEI",
+        "type": "Cables - Power & Others",
+        "id": "keiindustries",
+        "symbol": "KEI"
+    },
+    "IRFC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/indianrailwayfinancecorporation/IRF",
+        "type": "Finance - NBFC",
+        "id": "indianrailwayfinancecorporation",
+        "symbol": "IRFC"
+    },
+    "Capri Global": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-general/capriglobalcapital/MMF05",
+        "type": "Finance - General",
+        "id": "capriglobalcapital",
+        "symbol": "CGCL"
+    },
+    "Venkys": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/venkys/V03",
+        "type": "Miscellaneous",
+        "id": "venkys",
+        "symbol": "VENKEYS"
+    },
+    "Strides Pharma ": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/stridespharmascience/SA10",
+        "type": "Pharmaceuticals",
+        "id": "stridespharmascience",
+        "symbol": "STAR"
+    },
+    "Pfizer": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/pfizer/P",
+        "type": "Pharmaceuticals",
+        "id": "pfizer",
+        "symbol": "PFIZER"
+    },
+    "Narayana Hruda": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/narayanahrudayalaya/NH",
+        "type": "Hospitals & Medical Services",
+        "id": "narayanahrudayalaya",
+        "symbol": "NH"
+    },
+    "Home First": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-housing/homefirstfinancecompanyindia/HFF",
+        "type": "Finance - Housing",
+        "id": "homefirstfinancecompanyindia",
+        "symbol": "HOMEFIRST"
+    },
+    "Shriram Trans": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/shriramtransportfinancecorporation/STF",
+        "type": "Finance - Leasing & Hire Purchase",
+        "id": "shriramtransportfinancecorporation",
+        "symbol": "SRTRANSFIN"
+    },
+    "Kansai Nerolac": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/paints-varnishes/kansainerolacpaints/KNP",
+        "type": "Paints & Varnishes",
+        "id": "kansainerolacpaints",
+        "symbol": "KANSAINER"
+    },
+    "Power Grid Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/powergridcorporationindia/PGC",
+        "type": "Power - Generation & Distribution",
+        "id": "powergridcorporationindia",
+        "symbol": "POWERGRID"
+    },
+    "REC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-term-lending-institutions/rec/REC02",
+        "type": "Finance - Term Lending Institutions",
+        "id": "rec",
+        "symbol": "RECLTD"
+    },
+    "Orient Electric": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/consumer-goods-electronic/orientelectriclimited/ORIEN54130",
+        "type": "Consumer Goods - Electronic",
+        "id": "orientelectriclimited",
+        "symbol": "ORIENTELEC"
+    },
+    "Mazagon Dock": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/ship-building/mazagondockshipbuilders/MDS01",
+        "type": "Ship Building",
+        "id": "mazagondockshipbuilders",
+        "symbol": "MAZDOCK"
+    },
+    "Alkem Lab": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alkemlaboratories/AL05",
+        "type": "Pharmaceuticals",
+        "id": "alkemlaboratories",
+        "symbol": "ALKEM"
+    },
+    "Welspun Corp": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/steel-tubes-pipes/welspuncorp/WGS",
+        "type": "Steel - Tubes & Pipes",
+        "id": "welspuncorp",
+        "symbol": "WELCORP"
+    },
+    "Syngene Intl": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/syngeneinternational/SI10",
+        "type": "Miscellaneous",
+        "id": "syngeneinternational",
+        "symbol": "SYNGENE"
+    },
+    "SBI Card": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-term-lending/sbicardspaymentservices/SCP02",
+        "type": "Finance Term Lending",
+        "id": "sbicardspaymentservices",
+        "symbol": "SBICARD"
+    },
+    "Granules India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/granulesindia/GI25",
+        "type": "Pharmaceuticals",
+        "id": "granulesindia",
+        "symbol": "GRANULES"
+    },
+    "Coal India": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/mining-minerals/coalindia/CI11",
+        "type": "Mining & Minerals",
+        "id": "coalindia",
+        "symbol": "COALINDIA"
+    },
+    "CSB Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/csbbank/CB05",
+        "type": "Banks - Private Sector",
+        "id": "csbbank",
+        "symbol": "CSBBANK"
+    },
+    "ACC": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/acc/ACC06",
+        "type": "Cement - Major",
+        "id": "acc",
+        "symbol": "ACC"
+    },
+    "Redington": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/computers-hardware/redingtonindia/RI37",
+        "type": "Computers - Hardware",
+        "id": "redingtonindia",
+        "symbol": "REDINGTON"
+    },
+    "Eicher Motors": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/eichermotors/EM",
+        "type": "Auto - LCVs & HCVs",
+        "id": "eichermotors",
+        "symbol": "EICHERMOT"
+    },
+    "Tata Motors": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/tatamotors/TM03",
+        "type": "Auto - LCVs & HCVs",
+        "id": "tatamotors",
+        "symbol": "TATAMOTORS"
+    },
+    "Glenmark Life": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals-drugs/glenmarklifesciences/GLS01",
+        "type": "Pharmaceuticals & Drugs",
+        "id": "glenmarklifesciences",
+        "symbol": "GLS"
+    },
+    "ZFCVINDIA": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-others/zfcommercialvehiclecontrolsystemsindia/WAB",
+        "type": "Auto Ancillaries - Others",
+        "id": "zfcommercialvehiclecontrolsystemsindia",
+        "symbol": "ZFCVINDIA"
+    },
+    "TCI Express": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/transport-logistics/tciexpress/TCI08",
+        "type": "Transport & Logistics",
+        "id": "tciexpress",
+        "symbol": "TCIEXP"
+    },
+    "Shree Cements": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/shreecements/SC12",
+        "type": "Cement - Major",
+        "id": "shreecements",
+        "symbol": "SHREECEM"
+    },
+    "Axis Bank": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/axisbank/AB16",
+        "type": "Banks - Private Sector",
+        "id": "axisbank",
+        "symbol": "AXISBANK"
+    },
+    "KRBL": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/food-processing/krbl/KRB01",
+        "type": "Food Processing",
+        "id": "krbl",
+        "symbol": "KRBL"
+    },
+    "KNR Construct": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/construction-contracting-civil/knrconstructions/KC13",
+        "type": "Construction & Contracting - Civil",
+        "id": "knrconstructions",
+        "symbol": "KNRCON"
+    },
+    "Gujarat Fluoro": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/chemicals/gujaratfluorochemicalslimited/GUJAR54281",
+        "type": "Chemicals",
+        "id": "gujaratfluorochemicalslimited",
+        "symbol": "FLUOROCHEM"
+    },
+    "Alembic Pharma": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alembicpharmaceuticals/AP35",
+        "type": "Pharmaceuticals",
+        "id": "alembicpharmaceuticals",
+        "symbol": "APLLTD"
+    },
+    "TVS Motor": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/tvsmotorcompany/TVS",
+        "type": "Auto - 2 & 3 Wheelers",
+        "id": "tvsmotorcompany",
+        "symbol": "TVSMOTOR"
+    },
+    "Colgate": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/personal-care/colgatepalmoliveindia/CPI",
+        "type": "Personal Care",
+        "id": "colgatepalmoliveindia",
+        "symbol": "COLPAL"
+    },
+    "Tata Coffee": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/plantations-tea-coffee/tatacoffee/TC14",
+        "type": "Plantations - Tea & Coffee",
+        "id": "tatacoffee",
+        "symbol": "TATACOFFEE"
+    },
+    "EID Parry": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/sugar/eidparryindia/EID",
+        "type": "Sugar",
+        "id": "eidparryindia",
+        "symbol": "EIDPARRY"
+    },
+    "Berger Paints": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/paints-varnishes/bergerpaintsindia/BPI02",
+        "type": "Paints & Varnishes",
+        "id": "bergerpaintsindia",
+        "symbol": "BERGEPAINT"
+    },
+    "Kalpataru Power": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/power-transmission-equipment/kalpatarupowertransmission/KPT",
+        "type": "Power - Transmission & Equipment",
+        "id": "kalpatarupowertransmission",
+        "symbol": "KALPATPOWR"
+    },
+    "Ambuja Cements": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18",
+        "type": "Cement - Major",
+        "id": "ambujacements",
+        "symbol": "AMBUJACEM"
+    },
+    "Escorts": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-tractors/escorts/E",
+        "type": "Auto - Tractors",
+        "id": "escorts",
+        "symbol": "ESCORTS"
+    },
+    "Ashok Leyland": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/ashokleyland/AL",
+        "type": "Auto - LCVs & HCVs",
+        "id": "ashokleyland",
+        "symbol": "ASHOKLEY"
+    },
+    "Avanti Feeds": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/aquaculture/avantifeeds/AF21",
+        "type": "Aquaculture",
+        "id": "avantifeeds",
+        "symbol": "AVANTIFEED"
+    },
+    "Symphony": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/consumer-goods-white-goods/symphony/SCS04",
+        "type": "Consumer Goods - White Goods",
+        "id": "symphony",
+        "symbol": "SYMPHONY"
+    },
+    "Jubilant Food": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04",
+        "type": "Miscellaneous",
+        "id": "jubilantfoodworks",
+        "symbol": "JUBLFOOD"
+    },
+    "JB Chemicals": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/jbchemicalspharmaceuticals/JBC01",
+        "type": "Pharmaceuticals",
+        "id": "jbchemicalspharmaceuticals",
+        "symbol": "JBCHEPHARM"
+    },
+    "Godrej Agrovet": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/godrejagrovet/GA03",
+        "type": "Miscellaneous",
+        "id": "godrejagrovet",
+        "symbol": "GODREJAGRO"
+    },
+    "Dixon Technolog": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/electricals/dixontechnologies/DT07",
+        "type": "Electricals",
+        "id": "dixontechnologies",
+        "symbol": "DIXON"
+    },
+    "Max Financial": {
+        "link": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/maxfinancialservices/MI",
+        "type": "Finance - Investments",
+        "id": "maxfinancialservices",
+        "symbol": "MFSL"
+    }
+}
