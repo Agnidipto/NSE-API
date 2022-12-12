@@ -2,6 +2,10 @@ from operator import index
 from bs4 import BeautifulSoup
 import requests 
 import json
+from datetime import datetime
+import pytz
+
+IST = pytz.timezone('Asia/Kolkata')
 
 result = {
 }
@@ -33,6 +37,10 @@ def get_data(name) :
     result["change"] = change
     result["up_down"] = "down" if ("-" in change) else "up"
 
+    datetime_ist = datetime.now(IST)
+
+    result["time"] = datetime_ist.strftime('%H:%M:%S')
+
     return (result)
 
 def get_price(name) :
@@ -50,3 +58,7 @@ def get_points(name) :
 def get_up_down(name) :
     data = get_data(name)
     return data["up_down"]
+
+def get_time():
+    datetime_ist = datetime.now(IST)
+    return datetime_ist.strftime('%H:%M:%S')

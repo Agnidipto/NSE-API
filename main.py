@@ -35,5 +35,10 @@ def up_down() :
     args=request.args
     return utils.get_up_down(args["name"])
 
+@app.route("/time")
+@cross_origin()
+def cur_time() :
+    return utils.get_time()
+
 if __name__ == "__main__":
   app.run()
